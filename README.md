@@ -6,9 +6,9 @@ When navigating the darknet, having reliable information about trusted marketpla
 
 The **Nexus onion link** refers to the unique .onion URL used to access the Nexus darknet market via the Tor network. Since darknet sites frequently change their URLs to avoid shutdowns and cyber attacks, official mirror links play a vital role in maintaining uninterrupted access.
 
-[<img src="/addons/top.webp" width="200">](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
+[<img src="/addons/top.webp" width="200">](http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion)
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/addons/pool.webp" alt="image" style="max-width: 100%;"></a>
+<a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/addons/pool.webp" alt="image" style="max-width: 100%;"></a>
 
 
 ## Importance of Nexus-Mirror Info
@@ -31,7 +31,9 @@ Official Nexus announcements, dedicated darknet forums, and verified community c
 For anyone interested in exploring Nexus safely, understanding the **Nexus onion link nexus-mirror info** is essential. By using official mirrors and verified links, users can safeguard their privacy and ensure uninterrupted access to one of the darknet’s most trusted markets.
 
 ## Use official Nexus onion darknet link: 
-http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion
+http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/addons/table.webp" style="max-width: 100%;"></a>
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/addons/middle.webp" style="max-width: 100%;"></a>
+<a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/addons/table.webp" style="max-width: 100%;"></a>
+<a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/addons/middle.webp" style="max-width: 100%;"></a>
+
+Update:  Sunday 14 September 2025
