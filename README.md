@@ -36,4 +36,6 @@ http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion
 <a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/addons/table.webp" style="max-width: 100%;"></a>
 <a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/addons/middle.webp" style="max-width: 100%;"></a>
 
-Update:  Sunday 14 September 2025
+
+
+Update:  Thursday 18 September 2025 url is now accessible and responsive
